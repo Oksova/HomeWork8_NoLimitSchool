@@ -1,0 +1,15 @@
+ul{
+    list-style: none;
+}  
+li{
+    list-style: none;
+}
+body {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f9f69b;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.03em;
+    }
+
+
